@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = a.lancelot.lexis@gmail.com
+	name = alexis lancelot
